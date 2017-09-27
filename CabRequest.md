@@ -1,5 +1,4 @@
-# SE-1
-Online tourism
+
 package com.sapient.nitrocab;
 
 import java.util.Date;
